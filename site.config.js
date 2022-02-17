@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'YiMin Huang',
-  domain: 'https://www.notion.so/YiMin-Huang-530f3e7805674a8695515536f0b00446',
+  domain: 'https://yimin-academic.notion.site/YiMin-Huang-530f3e7805674a8695515536f0b00446',
   author: 'YiMin Huang',
 
   // open graph metadata (optional)
